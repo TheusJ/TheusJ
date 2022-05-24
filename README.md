@@ -1,10 +1,5 @@
-<Hr>
-<Ul>
-<P>Estudando:
-<Li>HTML, CSS e JAVASCRIPT</li><BR>
-<P>Trabalhando na área?</p>
-<Li>Ainda não.</li>
-<Br>
-<P>Nível?</p>
-<Li>Iniciante</li>
-</Ul>
+![TheusJ GitHub stats](https://github-readme-stats.vercel.app/api?username=TheusJ&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheusJ)](https://github.com/anuraghazra/github-readme-stats)
+
+
